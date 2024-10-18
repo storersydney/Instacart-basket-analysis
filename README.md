@@ -2,8 +2,9 @@
 
 ## Project Summary
 This repository contains an initial data and exploratory analysis of Instacart's sales data, focusing on uncovering customers' purchasing patterns.
+Stakeholders are interested in implementing a targeted marketing strategy based on customer profiles. 
 As an analyst for Instacart, the objective is to derive insights and suggest strategies for better segmentation based on
-the provided criteria. Stakeholders are interested in implementing a targeted marketing strategy based on customer profiles. 
+the provided criteria. 
 
 ## Key Questions
 * What are the busiest days of the week and hours of the day?
@@ -35,5 +36,5 @@ Libraries used:
 * SciPy: for mathematical equations
 
 ## Resources
-Open-source datasets from Instacart
-Project brief and Customers dataset fabricated by CareerFoundry for the purpose of this project
+* Open-source datasets from Instacart
+* Project brief and Customers dataset fabricated by CareerFoundry for the purpose of this project
