@@ -15,24 +15,24 @@ the provided criteria. Stakeholders are interested in implementing a targeted ma
 ## Folders
 Description of folder contents are as follows:
 
-01 Project Management: contains the project brief
-02 Data: subfolders: (Data not uploaded to GitHub due to size limitations.)
+* 01 Project Management: contains the project brief
+* 02 Data: subfolders: (Data not uploaded to GitHub due to size limitations.)
   Original Data: original datasets
   Prepared Data: cleaned data ready for analysis
-03 Scripts: Python code for the analysis, executed using Jupyter notebooks
-04 Analysis: subfolder:
+* 03 Scripts: Python code for the analysis, executed using Jupyter notebooks
+* 04 Analysis: subfolder:
   Visualizations: all visualizations used for exploratory analysis and communicating insights
-05 Sent to Client: final Excel presentation
+* 05 Sent to Client: final Excel presentation
 
 ## Technology Used
 Code was written in Python using Jupyter Notebooks.
 
 Libraries used:
-Pandas: for data analysis
-Numpy: for mathematical equations
-Seaborn: for data visualizations
-Matplotlib: for data visualizations
-SciPy: for mathematical equations
+* Pandas: for data analysis
+* Numpy: for mathematical equations
+* Seaborn: for data visualizations
+* Matplotlib: for data visualizations
+* SciPy: for mathematical equations
 
 ## Resources
 Open-source datasets from Instacart
